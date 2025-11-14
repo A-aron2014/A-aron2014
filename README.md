@@ -1,15 +1,16 @@
-<h1 align="center">Hi there 👋, I'm [Aaron Pineda]</h1>
+<h1 align="center">Hi there 👋, I'm Aaron Pineda</h1>
 <p align="center">
   <em>Robotics Master's Student | Embedded Systems Enthusiast | Autonomous Systems Explorer</em>
 </p>
 
 ---
-## About Me
-
+<p align="center">
+Robotics focused Software & Control Systems Engineer
+</p
+-  Background: Mechanical Engineering & Electrical Engineering
 -  Currently pursuing a Master's in Robotics at CU Boulder
 -  Passionate about autonomy, perception, and embedded systems
 -  Balancing full-time work and travel while building intelligent machines
--  Always learning — from algorithms to real-time control
 
 ---
 
@@ -90,8 +91,8 @@
 
 ##  Connect With Me
 
--  [LinkedIn][(https://www.linkedin.com/in/aaron-pineda-e-i-t-b52442ba/)]
--  [Email][Apineda2014@gmail.com]
+LinkedIn:[https://www.linkedin.com/in/aaron-pineda-e-i-t-b52442ba/]
+Email:Apineda2014@gmail.com
 
 ---
 
